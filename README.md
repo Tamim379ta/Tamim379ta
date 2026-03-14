@@ -6,7 +6,7 @@ I'm a passionate Web Developer focused on building modern and efficient web appl
 ## 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react" />
   </a>
 </p>
 

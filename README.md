@@ -34,7 +34,7 @@ I'm a passionate Web Developer focused on building modern and efficient web appl
 </p>
 
 
-## 📈 GitHub Stats
-![Tamim379ta GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamim379ta&show_icons=true&theme=radical)
+
+
 
 

@@ -33,8 +33,8 @@ I'm a passionate Web Developer focused on building modern and efficient web appl
   </a>
 </p>
 
-
-
+## 📊 GitHub Stats
+<p align="center">  </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamim379ta&theme=tokyonight" /> </p> <p align="center"> </p>
 
 
 

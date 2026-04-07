@@ -14,7 +14,7 @@ I'm a passionate Web Developer focused on building modern and efficient web appl
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,netlify,vercel" />
   </a>
 </p>
 

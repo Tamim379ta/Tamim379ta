@@ -6,7 +6,7 @@ I'm a passionate Web Developer focused on building modern and efficient web appl
 ## 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@ I'm a passionate Web Developer focused on building modern and efficient web appl
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
   </a>
 </p>
 
@@ -31,7 +31,13 @@ I'm a passionate Web Developer focused on building modern and efficient web appl
   <a href="https://github.com/Tamim379ta">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+ 
+  <a href="tamimthasan55@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
+
+
 
 ## 📊 GitHub Stats
 <p align="center">  </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamim379ta&theme=tokyonight" /> </p> <p align="center"> </p>

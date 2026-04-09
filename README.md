@@ -1,3 +1,7 @@
+
+
+<img width="1734" height="907" alt="Personal tech brand with GitHub theme" src="https://github.com/user-attachments/assets/cc205fb7-1cbe-47eb-a711-50601ec64a76" />
+
 # Hi, I'm Tamim Tahsan 👋
 
 ## 💁‍♂️ About Me

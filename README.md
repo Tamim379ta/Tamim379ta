@@ -11,7 +11,7 @@ I'm a passionate Web Developer focused on building modern and efficient web appl
 ## 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,mongodb" />
   </a>
 </p>
 

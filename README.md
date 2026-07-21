@@ -2,12 +2,10 @@
  <img width="867" height="317" alt="ChatGPT Image Jul 9, 2026, 05_48_50 PM" src="https://github.com/user-attachments/assets/d97896af-2559-42c3-8c5d-a9eff76703df" />
 
 </div>
-
+<br/>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tamim+Tahsan+%F0%9F%91%8B;Full+Stack+Web+Developer;Next.js+%7C+Express.js+%7C+MongoDB;Building+Things+That+Matter!" alt="Typing SVG" />
 </div>
-
-<br/>
 
 ---
 
